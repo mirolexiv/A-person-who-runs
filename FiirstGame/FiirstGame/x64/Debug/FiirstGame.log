@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\C++\Games\001\FiirstGame\FiirstGame\main.cpp(28,18): warning C4305: инициализация: усечение из "double" в "float"
+D:\C++\Games\001\FiirstGame\FiirstGame\main.cpp(32,14): warning C4244: инициализация: преобразование "int64_t" в "float", возможна потеря данных
+  FiirstGame.vcxproj -> D:\C++\Games\001\FiirstGame\x64\Debug\FiirstGame.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
